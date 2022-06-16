@@ -1,0 +1,22 @@
+.parent_All {
+    border: 2px dashed black;
+    padding: 10px;
+    margin: auto;
+    max-width: 70vw;
+}
+
+div> p {
+    border: 1px solid red;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+}
+
+.third_Child:hover {
+    background-color: lime;
+    cursor: pointer;
+}
+
+.sub_Title {
+    text-align: center;
+}
